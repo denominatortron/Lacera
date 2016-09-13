@@ -1,0 +1,8 @@
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\bin\Debug\ConsoleFileParser.exe.config
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\bin\Debug\ConsoleFileParser.exe
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\bin\Debug\ConsoleFileParser.pdb
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\bin\Debug\ParserLibrary.dll
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\bin\Debug\ParserLibrary.pdb
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\obj\Debug\ConsoleFileParser.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\obj\Debug\ConsoleFileParser.exe
+C:\Users\Nam\Code\Repos\Lacera\ConsoleFileParser\obj\Debug\ConsoleFileParser.pdb

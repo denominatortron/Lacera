@@ -1,0 +1,31 @@
+ParserLibrary
+-Explanations
+	-much consideration was made for future proofing the library, following DRY, and stressing code reuse
+		-parser is generic and only work with IParseable
+		-domain objects are responsible for own creation
+			-domain objects inherit from IParseable to facilitate this
+	-ParseLine was separated from ParseCSV because ParseLine is viewed as reuse friendly
+-Improvements
+	-inflation should be changed to return a boolean to indicate failure/success
+
+ParserLibraryTests
+-Explanations
+	-the parser and domain objects need to be separately unit tested
+		-the domain objects need to be tested since they are responsible for self-inflation of incoming data
+-Improvements
+	-Add unit tests for parser instance, in particular ParseLine
+
+ConsoleFileParser and EmployeeWebApp
+-Explanations
+	-the choice was made in both to not display invalid records
+
+ConsoleFileParser
+-Explanations
+	-Project was straightforward
+
+EmployeeWebApp
+-Explanations
+	-ViewModels were used in Home folder to isolate UI specific fields from domain data.
+		-example: display formats on dates in EmployeeViewModel
+-Improvements
+	-Making the site HTML5 semantic rich

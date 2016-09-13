@@ -1,0 +1,4 @@
+C:\Users\Nam\Code\Repos\Lacera\ParserLibrary\bin\Debug\ParserLibrary.dll
+C:\Users\Nam\Code\Repos\Lacera\ParserLibrary\bin\Debug\ParserLibrary.pdb
+C:\Users\Nam\Code\Repos\Lacera\ParserLibrary\obj\Debug\ParserLibrary.dll
+C:\Users\Nam\Code\Repos\Lacera\ParserLibrary\obj\Debug\ParserLibrary.pdb

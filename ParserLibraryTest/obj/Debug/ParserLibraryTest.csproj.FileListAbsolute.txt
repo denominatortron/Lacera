@@ -1,0 +1,7 @@
+C:\Users\Nam\Code\Repos\Lacera\ParserLibraryTest\bin\Debug\ParserLibraryTest.dll
+C:\Users\Nam\Code\Repos\Lacera\ParserLibraryTest\bin\Debug\ParserLibraryTest.pdb
+C:\Users\Nam\Code\Repos\Lacera\ParserLibraryTest\obj\Debug\ParserLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Code\Repos\Lacera\ParserLibraryTest\obj\Debug\ParserLibraryTest.dll
+C:\Users\Nam\Code\Repos\Lacera\ParserLibraryTest\obj\Debug\ParserLibraryTest.pdb
+C:\Users\Nam\Code\Repos\Lacera\ParserLibraryTest\bin\Debug\ParserLibrary.dll
+C:\Users\Nam\Code\Repos\Lacera\ParserLibraryTest\bin\Debug\ParserLibrary.pdb
